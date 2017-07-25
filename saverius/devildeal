@@ -1,6 +1,6 @@
 
 //This weapon replaces the bane, it uses the wanderlust firing mode
-//It has very low fire rate when hip firing but it deals massive damage when zoomed and it also drains your health
+//It has very low fire rate when hip firing but it deals massive damage when zoomed and it also drains your health...a lot.
 
 #<Evil Bane>
 set GD_Weap_SMG.Name.Title.Title__Unique_Bane PartName Devil deal
